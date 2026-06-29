@@ -1,4 +1,4 @@
-# 
+# 原生 Affinity Designer 滤镜 Mac OS版 | 自定义 Affinity Designer 滤镜 PC Windows版。集成 色板 和 RAW处理，跨平台性能最大化。
 
 
 
